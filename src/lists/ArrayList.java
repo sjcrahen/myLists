@@ -1,4 +1,3 @@
-// This is a change to demo GIT in Eclipse
 package lists;
 
 public class ArrayList<T> implements List<T> {
